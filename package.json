@@ -1,0 +1,14 @@
+{
+    "name": "todo",
+    "version": "0.0.1",
+    "description": "todo serverless",
+    "scripts": {
+        "deploy": "serverless deploy",
+        "typings": "typings install"
+    },
+    "dependencies": {
+        "aws-sdk": "^2.903.0",
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {}
+}
